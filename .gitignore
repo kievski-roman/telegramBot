@@ -1,0 +1,13 @@
+.env
+.token
+*.log
+*_dump.json
+/vendor/
+/.idea/
+/.vscode/
+*.bak
+*.tmp
+top_deals_dump.json
+log.txt
+/storage/
+
